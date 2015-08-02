@@ -6,7 +6,8 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
-    //tutaj wstawiam kod
+
+    // jakis tekst
 
     return a.exec();
 }
